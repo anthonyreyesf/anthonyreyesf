@@ -1,5 +1,8 @@
-### Hi there 👋
+<h2>⚡ Hey, I'm Anthony Reyes</h2>
 
+I am an aspiring Software Engineer currently studying [@York U](https://www.yorku.ca/) and I am currently working [@D2L](https://www.d2l.com/) as a Multimedia Developer Intern.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anthonyreyesf/).
 <!--
 **anthonyreyesf/anthonyreyesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
