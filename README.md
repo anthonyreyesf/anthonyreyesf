@@ -1,8 +1,8 @@
 <h2>⚡ Hey, I'm Anthony Reyes</h2>
 
-  I am an aspiring Software Engineer studying [@York U](https://www.yorku.ca/) and I am currently working [@Ada](https://www.ada.cx/) as a Software Developer Intern.
+  I am an aspiring Software Engineer studying [@York U](https://www.yorku.ca/).
   
-  Previously [@D2L](https://www.d2l.com/), [@Mixemapp](https://mixemapp.com/).
+  Previous Software Developer Intern [@Ada](https://www.ada.cx/), [@D2L](https://www.d2l.com/), [@Mixemapp](https://mixemapp.com/).
 
   Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anthonyreyesf/).
 <!--
