@@ -1,6 +1,6 @@
 <h2>⚡ Hey, I'm Anthony Reyes</h2>
 
-  I am a Software Developer currently working [@Bolt](https://gobolt.com/).
+  I am a Software Developer currently working [@GoBolt](https://gobolt.com/).
   
   Previously worked [@Ada](https://www.ada.cx/) and [@D2L](https://www.d2l.com/).
 
