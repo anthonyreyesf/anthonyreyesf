@@ -1,6 +1,6 @@
 <h2>⚡ Hey, I'm Anthony Reyes</h2>
 
-  I am a Software Developer currently working [@NauticalCommerce](https://www.nauticalcommerce.com/).
+  I am a Software Engineer currently working [@NauticalCommerce](https://www.nauticalcommerce.com/).
   
   Previously worked [@Ada](https://www.ada.cx/), [@D2L](https://www.d2l.com/) and [@GoBolt](https://gobolt.com/).
 
